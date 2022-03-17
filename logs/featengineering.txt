@@ -1,0 +1,83 @@
+2022-03-17/20:26:36		Entered the scaling function.
+2022-03-17/20:26:36		Exception occured in scaling function. Exception message:  'Engineering' object has no attribute 'data4'
+2022-03-17/20:34:24		Entered the handling_rare function.
+2022-03-17/20:34:24		Exception occured in gadling_rare function. Exception message:  'Engineering' object has no attribute 'data3'
+2022-03-17/20:34:24		Exception occured in scaling function. Exception message:  
+2022-03-17/20:37:22		Entered the cat_missing_values function.
+2022-03-17/20:37:22		Entered the num_missing values function.
+2022-03-17/20:37:22		Exception occured in num_missing_values function. Exception message:  'NoneType' object has no attribute 'columns'
+2022-03-17/20:37:22		Exception occured in temporal function. Exception message:  
+2022-03-17/20:37:22		Exception occured in log_normal function. Exception message:  
+2022-03-17/20:37:22		Exception occured in handling_rare function. Exception message:  
+2022-03-17/20:37:22		Exception occured in scaling function. Exception message:  
+2022-03-17/20:39:52		Entered the cat_missing_values function.
+2022-03-17/20:39:52		Entered the num_missing values function.
+2022-03-17/20:39:52		Exception occured in num_missing_values function. Exception message:  'NoneType' object is not subscriptable
+2022-03-17/20:39:52		Exception occured in temporal function. Exception message:  
+2022-03-17/20:39:52		Exception occured in log_normal function. Exception message:  
+2022-03-17/20:39:52		Exception occured in handling_rare function. Exception message:  
+2022-03-17/20:39:52		Exception occured in scaling function. Exception message:  
+2022-03-17/20:44:00		Entered the cat_missing_values function.
+2022-03-17/20:44:00		Entered the num_missing values function.
+2022-03-17/20:44:00		Exception occured in num_missing_values function. Exception message:  'NoneType' object is not subscriptable
+2022-03-17/20:44:00		Exception occured in temporal function. Exception message:  
+2022-03-17/20:44:00		Exception occured in log_normal function. Exception message:  
+2022-03-17/20:44:00		Exception occured in handling_rare function. Exception message:  
+2022-03-17/20:44:00		Exception occured in scaling function. Exception message:  
+2022-03-17/21:01:58		Entered the cat_missing_values function.
+2022-03-17/21:01:58		Dealing with missing values in numerical features.
+2022-03-17/21:01:58		Exception occured in cat_missing_values function. Exception message:  'NoneType' object is not subscriptable
+2022-03-17/21:05:14		Entered the cat_missing_values function.
+2022-03-17/21:05:14		Dealing with missing values in numerical features.
+2022-03-17/21:05:14		Entering for loop.
+2022-03-17/21:05:14		Exception occured in cat_missing_values function. Exception message:  'NoneType' object is not subscriptable
+2022-03-17/21:06:50		Entered the cat_missing_values function.
+2022-03-17/21:06:50		Dealing with missing values in numerical features.
+2022-03-17/21:06:50		Entering for loop.
+2022-03-17/21:06:50		Hi 1.
+2022-03-17/21:06:50		Hi 2.
+2022-03-17/21:06:50		Hi 3.
+2022-03-17/21:06:50		Exception occured in cat_missing_values function. Exception message:  'NoneType' object is not subscriptable
+2022-03-17/21:15:49		Entered the cat_missing_values function.
+2022-03-17/21:15:49		Dealing with missing values in numerical features.
+2022-03-17/21:15:49		Entering for loop.
+2022-03-17/21:15:49		Hi 1.
+2022-03-17/21:15:49		Hi 2.
+2022-03-17/21:15:49		Hi 3.
+2022-03-17/21:17:04		Entered the cat_missing_values function.
+2022-03-17/21:17:04		Dealing with missing values in numerical features.
+2022-03-17/21:17:04		Entering for loop.
+2022-03-17/21:17:04		Hi 1.
+2022-03-17/21:17:04		Hi 2.
+2022-03-17/21:17:04		Hi 3.
+2022-03-17/21:18:08		Entered the cat_missing_values function.
+2022-03-17/21:18:08		Dealing with missing values in numerical features.
+2022-03-17/21:18:08		Entering for loop.
+2022-03-17/21:18:08		Hi 1.
+2022-03-17/21:18:08		Hi 2.
+2022-03-17/21:18:08		Hi 3.
+2022-03-17/21:20:58		Entered the cat_missing_values function.
+2022-03-17/21:20:58		Dealing with missing values in numerical features.
+2022-03-17/21:20:58		Entering for loop.
+2022-03-17/21:20:58		Hi 1.
+2022-03-17/21:20:58		Hi 2.
+2022-03-17/21:20:58		Hi 3.
+2022-03-17/21:24:23		Entered the cat_missing_values function.
+2022-03-17/21:24:23		Dealing with missing values in numerical features.
+2022-03-17/21:24:23		Entering for loop.
+2022-03-17/21:24:23		Hi 1.
+2022-03-17/21:24:23		Hi 2.
+2022-03-17/21:24:23		Hi 3.
+2022-03-17/21:26:11		Entered the cat_missing_values function.
+2022-03-17/21:26:11		Dealing with missing values in numerical features.
+2022-03-17/21:26:11		Entering for loop.
+2022-03-17/21:26:11		Hi 1.
+2022-03-17/21:26:11		Hi 2.
+2022-03-17/21:26:11		Hi 3.
+2022-03-17/21:27:03		Entered the cat_missing_values function.
+2022-03-17/21:27:03		Dealing with missing values in numerical features.
+2022-03-17/21:27:03		Entering for loop.
+2022-03-17/21:27:03		Hi 1.
+2022-03-17/21:27:03		Hi 2.
+2022-03-17/21:27:03		Hi 3.
+2022-03-17/21:35:06		Entering for loop.
